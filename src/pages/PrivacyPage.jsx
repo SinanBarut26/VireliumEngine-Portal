@@ -1,3 +1,5 @@
+import React from "react";
+
 export function PrivacyPage() {
   return (
     <main className="legal-page">

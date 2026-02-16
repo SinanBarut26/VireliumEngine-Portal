@@ -1,4 +1,4 @@
-import { useEffect, useMemo } from "react";
+import React, { useEffect, useMemo } from "react";
 import { SiteLayout } from "./components/SiteLayout";
 import { LandingPage } from "./pages/LandingPage";
 import { TermsPage } from "./pages/TermsPage";

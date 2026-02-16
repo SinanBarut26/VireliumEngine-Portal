@@ -1,3 +1,5 @@
+import React from "react";
+
 export function TermsPage() {
   return (
     <main className="legal-page">

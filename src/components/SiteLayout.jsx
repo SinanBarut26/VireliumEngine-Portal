@@ -1,3 +1,5 @@
+import React from "react";
+
 function current(path, routePaths) {
   return routePaths.includes(path);
 }
